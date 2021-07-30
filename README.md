@@ -6,6 +6,7 @@ A princípio, é voltado para o uso de bibliotecas, auxiliando no gerenciamento 
 ### Funções atuais
 
 • Adição de livros com suas principais informações, além da exclusão também se necessário.
+
 • Monitoramento e edição do status de empréstimo.
 
 
